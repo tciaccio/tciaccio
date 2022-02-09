@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tciaccio
-- 👀 I’m interested in ... learning more about GitHub!
-- 🌱 I’m currently learning ... more about CI/CD
+- 👀 I’m interested in ... learning more about GitHub and how we can help the Mid-Market segment!
+- 🌱 I’m currently learning ... more about CI/CD and the full DevOps lifecycle
 - 📫 How to reach me ... email or cell!
 
 <!---
